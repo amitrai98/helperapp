@@ -42,6 +42,7 @@ export const QuestionsModal = (props) => {
               <Text style={styles.buttonText}>Close</Text>
             </TouchableOpacity> */}
             <TouchableOpacity
+              style={styles.closeButton}
               style={{
                 height: 20,
                 width: 20,
